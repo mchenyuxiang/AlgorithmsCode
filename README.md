@@ -1,7 +1,7 @@
 # AlgorithmsCode
 
 本项目是学习Algorithms第四版时一些程序的代码实现。
-[书的官网](http://algs4.cs.princeton.edu/home/)
+   **[书的官网](http://algs4.cs.princeton.edu/home/)**
 
 ##目录结构:
     章节名-算法名-语言名
